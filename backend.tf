@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "Paragon-Data-Labs"
+    organization = "paragon-data-lab"
 
     workspaces {
       name = var.terraform_workspace

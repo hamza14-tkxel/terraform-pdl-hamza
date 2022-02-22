@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"managed-policies","Source":"registry.terraform.io/yukihira1992/managed-policies/aws","Version":"0.3.30","Dir":".terraform/modules/managed-policies"}]}
